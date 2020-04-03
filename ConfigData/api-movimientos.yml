@@ -9,7 +9,7 @@ eureka:
 spring:
   profiles: testlucio
 words: YO,TU,EL,ELLA,ESTO-C8
-nroTramite: 12345678910L
+nroTramite: 12345678910
   
 ---
 spring:
